@@ -8,3 +8,5 @@ This is my edit from github!
 this is my merge conflict line
 
 this is the real merge conflict
+
+I learned a lot about pushing and pulling from github.
