@@ -4,3 +4,5 @@ This is my edit to the readme file
 Change from developing environment
 
 This is my edit from github!
+
+this is my merge conflict line
