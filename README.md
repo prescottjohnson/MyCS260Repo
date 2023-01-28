@@ -7,6 +7,10 @@ This is my edit from github!
 
 this is my merge conflict line
 
-this is the real merge conflict
+<<<<<<< HEAD
 
-I learned a lot about pushing and pulling from github.
+
+
+=======
+
+>>>>>>> cf52cf6 (merge conflict test)
